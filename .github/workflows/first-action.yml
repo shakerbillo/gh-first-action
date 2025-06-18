@@ -7,10 +7,10 @@ jobs:
       - name: Print greeting
         run: |
               echo "Hello Emmanuel"
-              echo '"whats good?"
+              echo "Whats good?"
       - name: Print goodbye
         run: |
             echo "Done - bye!"
-            echo "See ya!"
+            echo "Cya!"
 
 
